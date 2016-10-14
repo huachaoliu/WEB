@@ -1,10 +1,10 @@
 #展示列表
-<h4>一些小练习</h4><hr/>
-<h2>javascript基础特效</h2>
+一些小练习
+###javascript基础特效
 ===================================
+[仿小米官网](http://misliu.github.io/web/xiaomi/index.html)
 <h3>
 <ul>
-<li><a style="font-size='12px'" href="http://misliu.github.io/web/xiaomi/index.html">仿小米官网</a></li>
 <li><a style="font-size='12px'" href="http://misliu.github.io/web/%E7%BE%8E%E4%B8%BD%E8%AF%B4/index.html">仿美丽说官网</a></li>
 <li><a style="font-size='12px'" href="http://misliu.github.io/web/coding/arguments.html">arguments对象</li>
 <li><a style="font-size='12px'" href="http://misliu.github.io/web/coding/calendar.html">JS简易日历</a></li>
